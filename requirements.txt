@@ -1,0 +1,5 @@
+Flask==2.1.1
+openai==0.28.0
+PyMuPDF==1.19.6
+werkzeug==2.1.1
+Flask-Limiter==2.13
